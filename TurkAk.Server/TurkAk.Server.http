@@ -1,0 +1,6 @@
+@TurkAk.Server_HostAddress = http://localhost:5166
+
+GET {{TurkAk.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
