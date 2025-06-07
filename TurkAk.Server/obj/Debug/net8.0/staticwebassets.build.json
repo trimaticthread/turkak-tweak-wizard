@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "bOJJ1zhtOrTXTgf06ElZc0a7aqKUh3Ib+0AMtVpVqBU=",
+  "Source": "TurkAk.Server",
+  "BasePath": "_content/TurkAk.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\topra\\Desktop\\TurkAk\\turkak.client\\turkak.client.esproj",
+      "Version": 2,
+      "Source": "turkak.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
